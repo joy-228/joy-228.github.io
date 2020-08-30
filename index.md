@@ -1,33 +1,14 @@
 # Souradip Bhattacharyya
 
-Hi, I'm a first-year graduate student at the Department of Astronomy, Ohio State University, Columbus, OH. Active galactic nucleis (AGNs), dark matter and cosmology are my research interests.
+Hi, I'm a first-year graduate student at the Department of Astronomy, Ohio State University, Columbus, OH. I'm greatly interested in studying a myriad bunch of topics like active galactic nucleis, dark matter and cosmology. Previously, I completed my Backelors and Masters degrees in Physics from Presidency University, Kolkata, India. My alternative interests include soccer, hiking and non-fiction.
 
-### Markdown
+![Image](IMG_0544.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Publications
+### Publication
 
 1. Blazar Variability: A Study of Nonstationarity and the Flux-Rms Relation - [ADS Link](https://ui.adsabs.harvard.edu/abs/2020ApJ...897...25B/abstract)
 
 ### Contact
 
-- [buckeyemail](bhattacharyya.37@buckeyemail.osu.edu)
+- [Buckeyemail](bhattacharyya.37@buckeyemail.osu.edu)
+- [Twitter](https://twitter.com/Joy2296)
