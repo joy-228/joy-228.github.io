@@ -4,7 +4,7 @@
 
 I'm greatly interested in studying a myriad bunch of topics like active galactic nucleis, dark matter and cosmology. Previously, I completed my Backelors and Masters degrees in Physics from Presidency University, Kolkata, India. My alternative interests include following soccer, hiking and reading up on history.
 
-<img src="https://souradipb96.github.io/souradipb.github.io/IMG_0544.jpg" width="48">
+<img src="https://souradipb96.github.io/souradipb.github.io/IMG_0544.jpg" width="320">
 
 ## Publication
 
