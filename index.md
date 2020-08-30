@@ -1,9 +1,10 @@
 # Souradip Bhattacharyya 
-### (he/him/his)
+## Graduate student, Department of Astronomy, Ohio State University
+### he/him/his
 
-Hi, I'm a first-year graduate student at the Department of Astronomy, Ohio State University, Columbus, OH. I'm greatly interested in studying a myriad bunch of topics like active galactic nucleis, dark matter and cosmology. Previously, I completed my Backelors and Masters degrees in Physics from Presidency University, Kolkata, India. My alternative interests include soccer, hiking and non-fiction.
+I'm greatly interested in studying a myriad bunch of topics like active galactic nucleis, dark matter and cosmology. Previously, I completed my Backelors and Masters degrees in Physics from Presidency University, Kolkata, India. My alternative interests include following soccer, hiking and reading up on history.
 
-![Image](IMG_0544.jpg)
+<img src="https://souradipb96.github.io/souradipb.github.io/IMG_0544.jpg" width="48">
 
 ## Publication
 
