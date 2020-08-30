@@ -1,4 +1,5 @@
-# Souradip Bhattacharyya
+# Souradip Bhattacharyya 
+## (he/him/his)
 
 Hi, I'm a first-year graduate student at the Department of Astronomy, Ohio State University, Columbus, OH. I'm greatly interested in studying a myriad bunch of topics like active galactic nucleis, dark matter and cosmology. Previously, I completed my Backelors and Masters degrees in Physics from Presidency University, Kolkata, India. My alternative interests include soccer, hiking and non-fiction.
 
