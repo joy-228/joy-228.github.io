@@ -1,12 +1,10 @@
 # Joy Bhattacharyya 
 ## PhD candidate, Department of Astronomy, Ohio State University
-### she/they
+### she/her
 
 Hi! I passionately study galaxies, particularly the processes shaping them to look and have the constituents as they do today. My journey in researching astronomy has took me across domains stretching from blazars, dark matter, the circumgalactic medium and satellite galaxies. 
 
-I'm a trans woman who hails from West Bengal, India. When I'm not working, I love to cook and bake for my friends!
 
-<img src="https://souradipb96.github.io/souradipb.github.io/IMG_0544.jpg" width="320">
 
 ## Publication
 
@@ -17,4 +15,4 @@ I'm a trans woman who hails from West Bengal, India. When I'm not working, I lov
 ## Contact
 
 - [Buckeyemail](bhattacharyya.37@buckeyemail.osu.edu)
-- [Twitter](https://twitter.com/Joy2296)
+
