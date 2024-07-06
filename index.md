@@ -1,9 +1,11 @@
 # Joy Bhattacharyya 
-## PhD candidate, Department of Astronomy, Ohio State University
+## PhD candidate,
+## Department of Astronomy, Ohio State University
 ### she/her
 
-Hi! I passionately study galaxies, particularly the processes shaping them to look and have the constituents as they do today. My journey in researching astronomy has took me across domains stretching from blazars, dark matter, the circumgalactic medium and satellite galaxies. 
+Hello! I am a fifth year graduate student in the Deparmtent of Astronomy at The Ohio State University. I use dwarf galaxies to understand the dark matter and baryonic physics that lead to their formation and evolution. For this purpose, I use both observations and simulations to study such dwarf galaxies across different enviornments of the Universe.
 
+ My journey in researching astronomy has took me across domains stretching from blazars, dark matter, the circumgalactic medium and satellite galaxies. 
 
 
 ## First Author Publications
