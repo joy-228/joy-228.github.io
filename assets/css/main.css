@@ -3790,7 +3790,7 @@ input, select, textarea {
 				}
 
 		body.is-preload #sidebar > .inner {
-			opacity: 0;
+			opacity: 0.2;
 		}
 
 		body.is-preload #sidebar nav ul li {
@@ -3908,3 +3908,4 @@ input, select, textarea {
 			}
 
 		}
+
